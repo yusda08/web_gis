@@ -22,6 +22,8 @@
                       <li><?php echo anchor('Koordinat_jembatan','Koordinat Jembatan') ?></li>
                   </ul>
               </li>
+              
+              <li><?php echo anchor('Biodata','Biodata Diri') ?></li>
  
             </ul>
  
